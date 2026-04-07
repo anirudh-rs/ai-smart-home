@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Data files (too large for GitHub)
+data/energydata_complete.csv
+data/events_backup.csv
+data/events_simulated_backup.csv
+
+# Environment
+.env
+*.egg-info/
+
+# Anaconda
+envs/
+
+# OS
+.DS_Store
+Thumbs.db

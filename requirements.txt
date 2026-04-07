@@ -1,0 +1,9 @@
+paho-mqtt
+scikit-learn
+pandas
+numpy
+streamlit
+plotly
+python-dotenv
+schedule
+prophet
