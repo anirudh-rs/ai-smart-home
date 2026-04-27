@@ -382,25 +382,6 @@ Run `python fix_headers.py` if the CSV was created without headers.
 
 ---
 
-## 💼 Resume Bullets (XYZ Format)
-
-> *Developed an end-to-end IoT analytics platform by engineering a data pipeline
-> that processed 118,410 real sensor events from the UCI Appliances Energy Dataset
-> and training a Random Forest classifier, resulting in 88% habit prediction accuracy
-> across 24-hour device automation schedules*
-
-> *Identified abnormal smart home device behaviour by applying Isolation Forest
-> unsupervised ML across 138 days of real household data, resulting in detection of
-> a 5% anomaly rate and a quantified $6,465 annual energy cost baseline surfaced
-> through an executive KPI dashboard*
-
-> *Forecasted 14-day household energy consumption by training a Prophet time series
-> model with 95% confidence intervals on real Belgian household IoT data, resulting
-> in a $693 annual cost projection delivered via a fully deployed Streamlit dashboard
-> accessible at a live public URL*
-
----
-
 ## 🗺️ Roadmap
 
 Planned improvements in priority order:
@@ -439,7 +420,3 @@ Built as a DA/DS portfolio project demonstrating:
 - **Business Intelligence** — KPI quantification, ROI framing, executive dashboard design
 - **Deployment** — GitHub version control + Streamlit Cloud live hosting
 - **Data Literacy** — honest handling of model limitations and dataset characteristics
-
----
-
-*Last updated: April 2026*
