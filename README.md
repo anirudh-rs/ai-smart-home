@@ -11,6 +11,13 @@
 
 ---
 
+## 🌐 Live Demo & Repository
+
+🚀 Live Dashboard | https://anirudh-smart-home.streamlit.app/ 
+
+
+---
+
 ## 📌 Overview
 
 This project solves a real-world data problem: smart homes generate thousands of sensor
@@ -313,16 +320,6 @@ Because the light model predicts OFF for all hours (correct for this LED househo
 the 'optimal' light cost is $0, making estimated savings equal to total light cost.
 This is mathematically accurate given the model output but should be interpreted
 as the energy cost baseline, not a guaranteed savings figure.
-
----
-
-## 🌐 Live Demo & Repository
-
-| Resource | Link |
-|---|---|
-| 🚀 Live Dashboard | https://anirudh-smart-home.streamlit.app/ |
-| 📂 GitHub Repository | https://github.com/anirudh-rs/ai-smart-home |
-| 📊 UCI Dataset | https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction |
 
 ---
 
