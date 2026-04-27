@@ -6,7 +6,6 @@
 > executive-grade Streamlit dashboard.
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live%20Demo-ff4b4b?style=flat-square)](https://share.streamlit.io)
 [![GitHub](https://img.shields.io/badge/GitHub-anirudh--rs%2Fai--smart--home-181717?style=flat-square&logo=github)](https://github.com/anirudh-rs/ai-smart-home)
 [![Dataset](https://img.shields.io/badge/Dataset-UCI%20Appliances%20Energy-orange?style=flat-square)](https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction)
 
@@ -321,7 +320,7 @@ as the energy cost baseline, not a guaranteed savings figure.
 
 | Resource | Link |
 |---|---|
-| 🚀 Live Dashboard | https://share.streamlit.io (deployed via GitHub) |
+| 🚀 Live Dashboard | https://anirudh-smart-home.streamlit.app/ |
 | 📂 GitHub Repository | https://github.com/anirudh-rs/ai-smart-home |
 | 📊 UCI Dataset | https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction |
 
