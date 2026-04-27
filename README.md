@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Live Demo & Repository
+## 🌐 Live Demo
 
 🚀 Live Dashboard | https://anirudh-smart-home.streamlit.app/ 
 
